@@ -7,8 +7,8 @@ import time
 import signal
 
 # Instagram Credentials
-USERNAME = "your_username"
-PASSWORD = "your_password"
+USERNAME = "absablabmab"
+PASSWORD = "Winter123$"
 SESSION_FILE = "session.json"
 
 # Initialize Instagrapi
@@ -30,8 +30,8 @@ def login():
 login()
 
 # Target Instagram Account
-TARGET_USER = "target_user_name"
-SAVE_FOLDER = r"Path to the folder where you want the reels saved"
+TARGET_USER = "darleyb019"
+SAVE_FOLDER = r""C:\Users\weedm\Downloads\Instagram_Reels"
 
 # Ensure Save Folder Exists
 os.makedirs(SAVE_FOLDER, exist_ok=True)
