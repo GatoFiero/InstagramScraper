@@ -31,7 +31,7 @@ login()
 
 # Target Instagram Account
 TARGET_USER = "darleyb019"
-SAVE_FOLDER = r""C:\Users\weedm\Downloads\Instagram_Reels"
+SAVE_FOLDER = r"C:\Users\weedm\Downloads\Instagram_Reels"
 
 # Ensure Save Folder Exists
 os.makedirs(SAVE_FOLDER, exist_ok=True)
